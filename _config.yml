@@ -1,0 +1,8 @@
+title: Ansi-econsole
+description: Eclipse plugin that understands ANSI escape sequences to color the Eclipse console output.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
